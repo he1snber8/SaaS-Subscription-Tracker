@@ -1,0 +1,1 @@
+// using Microsoft.AspNetCore.Mvc;\n// [ApiController]\n// [Route(\"api/[controller]\")]\n// public class SubscriptionsController : ControllerBase {\n//   // TODO: inject repo and implement GET/POST/PUT/DELETE\n// }

@@ -1,0 +1,1 @@
+// namespace SaaS.Api.Models;\n// public class Subscription {\n//   public int Id { get; set; }\n//   public string Name { get; set; } = string.Empty;\n//   public decimal MonthlyPrice { get; set; }\n//; }

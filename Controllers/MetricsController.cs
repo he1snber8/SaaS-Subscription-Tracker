@@ -1,0 +1,1 @@
+// [ApiController]\n// [Route(\"api/[controller]\")]\n// public class MetricsController : ControllerBase {\n//   // GET api/metrics/summary -> compute totals for current tenant\n// }

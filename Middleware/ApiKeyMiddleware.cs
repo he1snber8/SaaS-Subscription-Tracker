@@ -1,0 +1,1 @@
+// public class ApiKeyMiddleware {\n//   private readonly RequestDelegate _next;\n//   public ApiKeyMiddleware(RequestDelegate next) => _next = next;\n//   public async Task Invoke(HttpContext ctx) {\n//     // TODO: validate X-API-KEY and set tenant context\n//     await _next(ctx);\n//   }\n// }

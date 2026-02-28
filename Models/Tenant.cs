@@ -1,0 +1,1 @@
+// public class Tenant {\n//   public int Id { get; set; }\n//   public string Name { get; set; } = string.Empty;\n//   public string ApiKey { get; set; } = string.Empty;\n// }

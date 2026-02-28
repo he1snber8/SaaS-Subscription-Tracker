@@ -1,0 +1,1 @@
+// import { useEffect, useState } from 'react';\n// function App() {\n//   const [status, setStatus] = useState('loading');\n//   useEffect(() => {\n//     fetch(process.env.REACT_APP_API_URL + '/health')\n//       .then(r => r.json()).then(d => setStatus(d.status));\n//   }, []);\n//   return <div>API status: {status}</div>;\n// }\n// export default App;

@@ -1,0 +1,1 @@
+// export function TenantSelector({ tenants, activeId, onChange }) {\n//   return (\n//     <select value={activeId} onChange={e => onChange(e.target.value)}>\n//       {tenants.map(t => <option key={t.id} value={t.id}>{t.name}</option>)}\n//     </select>\n//   );\n// }

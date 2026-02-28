@@ -1,0 +1,1 @@
+// export function MetricsSummary({ metrics }) {\n//   if (!metrics) return null;\n//   return (<div>\n//     <h2>Summary</h2>\n//     <p>Monthly Recurring Revenue: ${metrics.mrr}</p>\n//     <p>Total Subscriptions: {metrics.count}</p>\n//   </div>);\n// }

@@ -1,0 +1,1 @@
+// using Microsoft.AspNetCore.Builder;\n// var builder = WebApplication.CreateBuilder(args);\n// var app = builder.Build();\n// app.MapGet(\"/health\", () => Results.Ok(new { status = \"ok\" }));\n// app.Run();

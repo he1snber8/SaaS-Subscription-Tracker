@@ -1,0 +1,1 @@
+// export function SubscriptionList({ items, onEdit, onDelete }) {\n//   return (<ul>\n//     {items.map(s => (\n//       <li key={s.id}>\n//         {s.name} - ${s.monthlyPrice}\n//         <button onClick={() => onEdit(s)}>Edit</button>\n//         <button onClick={() => onDelete(s.id)}>Delete</button>\n//       </li>))}\n//   </ul>);\n// }

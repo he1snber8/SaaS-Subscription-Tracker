@@ -1,0 +1,1 @@
+// using Microsoft.EntityFrameworkCore;\n// public class AppDbContext : DbContext {\n//   public DbSet<Subscription> Subscriptions => Set<Subscription>();\n//   public AppDbContext(DbContextOptions<AppDbContext> opts) : base(opts) { }\n// }

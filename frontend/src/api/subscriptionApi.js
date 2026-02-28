@@ -1,0 +1,1 @@
+// const baseUrl = process.env.REACT_APP_API_URL + '/api/subscriptions';\n// export async function getSubscriptions() {\n//   const res = await fetch(baseUrl, { headers: { 'X-API-KEY': 'demo-key' } });\n//   return await res.json();\n// }\n// // TODO: add create/update/delete functions
